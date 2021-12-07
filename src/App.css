@@ -1,3 +1,16 @@
+.navBarStyle {
+  display: flex;
+  flex: row nowrap;
+  border: 1px double white;
+  letter-spacing: 1rem;
+}
+
+.navBarItemsStyle {
+  margin: 2rem;
+  padding: 0.5rem;
+  background-color: thistle;
+}
+
 .App {
   text-align: center;
 }
