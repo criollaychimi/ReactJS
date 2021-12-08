@@ -11,6 +11,16 @@
   background-color: thistle;
 }
 
+.CartIcon {
+  width: 10px;
+  height: auto;
+}
+
+.Catalogo {
+  background-color: beige;
+  color: black;
+}
+
 .App {
   text-align: center;
 }
