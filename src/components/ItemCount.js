@@ -14,7 +14,7 @@ return (
 			onClick={() => {
 			setItemCount(Math.max(itemCount - 1, 0));
 			}}
-		>
+		
 			{" "}
 			<img src="../media/minus.png" fontSize="small" />
 		
